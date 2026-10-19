@@ -2,12 +2,5 @@
  "name": "stream-server",
  "version": "1.0.0",
  "type": "module",
- "description": "",
- "main": "index.js",
- "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1"
- },
- "keywords": [],
- "author": "",
- "license": "ISC"
+ "description": "https://chat.deepseek.com/a/chat/s/f3a52825-c533-48a1-acb8-084d3fb2f814"
 }
